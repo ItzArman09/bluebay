@@ -9,7 +9,7 @@ export default function HeroSection() {
             <div className="container py-8 text-center lg:py-0 lg:text-left lg:flex lg:justify-between ">
                 <div className="lg:w-1/2 xl:py-14 lg:py-8">
                     <p className="tracking-widest">OFFER FOR THE BEST INTERIOR</p>
-                    <h1 className="py-4 text-3xl font-extrabold leading-tight text-gray-800 xl:text-6xl lg:text-4xl">An aesthetic room is <br />given harmony</h1>
+                    <h1 className="py-4 text-3xl font-extrabold leading-tight text-gray-800 xl:text-6xl lg:text-4xl">An aesthetic room is <br />given harmony- main header-herosection</h1>
                     <p className="pb-6 text-gray-500 xl:pb-10">
                         Change your view with the best interior design. <br /> We provide the best interior design for your Home. <br />Make every moment beautiful with the best interior design.
                     </p>
